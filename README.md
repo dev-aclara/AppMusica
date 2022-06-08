@@ -1,2 +1,4 @@
-# App de Música - cadastro e Busca com Java utilizando SQLite
-# AppMusica
+# App de Música - Cadastro e Busca com 
+
+- Java 
+- SQLite
